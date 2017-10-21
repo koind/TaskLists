@@ -1,0 +1,84 @@
+body {
+    position: relative;
+    min-height: 100%;
+}
+
+main {
+    min-height: 900px;
+}
+
+.navbar {
+    margin-bottom: 0;
+    border: 0px solid transparent;
+    background-color: #343a40!important;
+    border-radius: 0;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:focus {
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:active {
+    color: #e0e0e0;
+}
+
+.jumbotron .h1, .jumbotron h1 {
+	font-size: 50px;
+}
+
+.navbar-brand {
+	font-style: 25px;
+}
+
+.navbar-default .navbar-text {
+	color: #fff;
+}
+
+.cbalink {
+    display: none;
+}
+
+.errors {
+    margin: 20% 0;
+}
+
+.jumbotron {
+    background: #e1e1e1 no-repeat center center;
+    background-size: cover;
+    background-image: url(https://d3ptyyxy2at9ui.cloudfront.net/bc51cd8ccfb3787ee54ad263924a1a0a.jpg);
+    background-color: #15190a;
+    color: white;
+    padding: 130px 20px;
+    min-height: 567px;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #f1f1f1;
+    background-color: transparent;
+}
+
+.card-login {
+    margin-top: 20%;
+}
+
+.navbar.footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.navbar-bottom {
+    padding-bottom: 50px;
+}
+
+
+
